@@ -1,0 +1,28 @@
+PODS:
+  - Graph (2.2.2)
+  - Material (2.16.4):
+    - Material/Core (= 2.16.4)
+  - Material/Core (2.16.4):
+    - Motion (~> 1.4.3)
+  - Motion (1.4.3):
+    - Motion/Core (= 1.4.3)
+  - Motion/Core (1.4.3)
+
+DEPENDENCIES:
+  - Graph (~> 2.0)
+  - Material (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Graph
+    - Material
+    - Motion
+
+SPEC CHECKSUMS:
+  Graph: 7bb540efc73635f727126db6236598aa472be086
+  Material: 4ed78690b09ffd148b5ffab6b4367fb1d8da1cd3
+  Motion: 153ba49692997888556c7a95207278a8b1f8be95
+
+PODFILE CHECKSUM: f052709ae97be1d8805107ab3b92f08eb4ad32f1
+
+COCOAPODS: 1.5.3
