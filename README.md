@@ -7,4 +7,4 @@ Used K-M-P and multi-thread algorithm to optimize speed.
 
 More file types can be easily supported by adding their decoder.
 
-Note that Material from CosmicMind is used for convenience in drawing GUI. Pod install it before compiling.
+*Material from CosmicMind is used for convenience in drawing GUI. Pod install it before compiling.
